@@ -13,7 +13,7 @@
 
 ## 🖼️ Application Preview
 
-![Reduct PRO Interface](screenshot.png)
+![Reduct PRO Interface](Screenshot.png)
 *Reduct PRO in action: Analyzing a playlist with multiple videos.*
 
 ## 🚀 Getting Started
